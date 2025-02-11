@@ -10,11 +10,11 @@ from odoo import api, models
 from odoo.tools.translate import _
 
 PARAMS = [
-    ("web_debranding.new_name", _("紫色💃饺子")),
-    ("web_debranding.new_title", _("紫色💃饺子")),
-    ("web_debranding.new_website", "example.com"),
-    ("web_debranding.new_documentation_website", "https://www.odoo.COM/documentation/"),
-    ("web_debranding.favicon_url", ""),
+    ("web_debranding.new_name", _("WaranCloud ERP")),
+    ("web_debranding.new_title", _("WaranCloud ERP")),
+    ("web_debranding.new_website", "warancloud.com/erp"),
+    ("web_debranding.new_documentation_website", "https://www.warancloud.com/erp/"),
+    ("web_debranding.favicon_url", "https://cawiye.warancloud.com/favicon-96x96.png"),
     ("web_debranding.send_publisher_warranty_url", "0"),
 ]
 
