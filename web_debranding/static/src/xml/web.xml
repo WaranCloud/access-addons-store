@@ -8,12 +8,12 @@
 <templates>
     <t t-extend="wysiwyg.widgets.image">
         <t t-jquery="t[t-set='urlPlaceholder']" t-operation="inner">
-            https://www.example.com/logo.png
+            https://demo-shop.erp.warancloud.com/pos_debranding/static/src/img/logo.png
         </t>
     </t>
     <t t-extend="wysiwyg.widgets.document">
         <t t-jquery="t[t-set='urlPlaceholder']" t-operation="inner">
-            https://www.example.com/mydocument
+            https://www.warancloud.com/erp
         </t>
     </t>
     <!-- enterprise: hide database expiration panel -->

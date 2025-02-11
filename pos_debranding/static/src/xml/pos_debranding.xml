@@ -9,7 +9,7 @@
         owl="1"
     >
         <xpath expr="//div[hasclass('pos-branding')]/img" position="attributes">
-            <attribute name="src">/logo.png</attribute>
+            <attribute name="src">/pos_debranding/static/src/img/logo.png</attribute>
         </xpath>
     </t>
 </templates>
